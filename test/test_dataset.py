@@ -1,4 +1,10 @@
-from dataset import SkipGramDataset
+import sys
+import os
+
+# Add src to python path to allow imports
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
+
+from src.dataset import SkipGramDataset
 
 dataset = SkipGramDataset(
     file_path="data/wiki_clean.txt",

@@ -1,0 +1,19 @@
+king - man + woman
+  tsar (0.7659)
+  carloman (0.7597)
+  ivan (0.7292)
+
+paris - france + italy
+  maggiore (0.6838)
+  bologna (0.6824)
+  florence (0.6795)
+
+bigger - big + small
+  mined (0.6368)
+  knit (0.6255)
+  geographically (0.6226)
+
+better - good + bad
+  easier (0.6372)
+  harder (0.6368)
+  faster (0.6314)

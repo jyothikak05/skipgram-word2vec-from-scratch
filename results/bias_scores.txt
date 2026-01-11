@@ -1,0 +1,11 @@
+Word	Bias Score
+-------------------
+engineer	-0.0896
+doctor	-0.0327
+scientist	-0.0831
+programmer	0.1099
+nurse	-0.2364
+teacher	-0.2407
+assistant	0.0110
+lawyer	-0.2372
+manager	0.0106

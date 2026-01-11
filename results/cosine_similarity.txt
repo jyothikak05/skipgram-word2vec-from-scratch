@@ -1,0 +1,7 @@
+Word Pair | Our Model | Gensim
+----------------------------------
+king-queen      | 0.7197 | 0.6511
+paris-france     | 0.6384 | 0.5551
+man-woman      | 0.6890 | 0.7664
+computer-laptop     | 0.7434 | 0.6640
+big-small      | 0.4481 | 0.4959

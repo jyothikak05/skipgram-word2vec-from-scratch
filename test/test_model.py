@@ -1,5 +1,11 @@
+import sys
+import os
 import torch
-from model import SkipGramNS
+
+# Add src to python path to allow imports
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
+
+from src.model import SkipGramNS
 
 model = SkipGramNS(vocab_size=10000, embedding_dim=100)
 

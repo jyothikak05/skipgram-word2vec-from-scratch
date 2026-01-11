@@ -1,0 +1,9 @@
+
+# Data
+data/wiki_clean.txt
+data/enwik8/wiki_clean.txt
+**/wiki_clean.txt
+
+# Python
+__pycache__/
+*.py[cod]
